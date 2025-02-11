@@ -1,2 +1,2 @@
 hello
-this is a new feature
+this is a newer feature
